@@ -1,4 +1,4 @@
-# AKGEC - College Android App for Students/Users
+# College Students/Users Android App
 
 This College Android App only for Students/End-Users developed as an mini project during the third year (Dec, 2022) with real-time updates is a dynamic online platform that provides students, faculty, and staff with the latest information and announcements.
 
